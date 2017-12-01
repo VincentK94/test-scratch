@@ -1,1 +1,1 @@
-# test-scratch
+# This is a test file
